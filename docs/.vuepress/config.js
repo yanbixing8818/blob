@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'yanbixing的博客',
+    title: '小闫要瘦的博客',
     description: 'XXX',
     base: '/blob/',
     theme: 'reco',
@@ -7,10 +7,10 @@ module.exports = {
       nav: [
         { text: "首页", link: "/" },
         {
-          text: "codinglin 的博客",
+          text: "小闫要瘦的博客",
           items: [
-            { text: "掘金", link: "https://juejin.cn/user/726107228492253" },
-            { text: "Github", link: "https://github.com/coding-lin" }
+            { text: "CSDC主页", link: "https://blog.csdn.net/yanbixing123" },
+            { text: "Github", link: "https://github.com/yanbixing8818/blob" }
           ]
         }
       ],
